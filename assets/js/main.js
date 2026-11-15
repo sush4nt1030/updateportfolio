@@ -22,6 +22,10 @@
       image: './assets/certs/google_cs_certificate.jpg', verify: 'https://coursera.org/share/5b21885d1e7ebfc5c92f950aac5b611b'
     },
     {
+      title: 'Hackerverse CTF competition', issuer: 'EC - Council', date: '27th Oct 2026', category: 'Cyber Security',
+      image: './assets/certs/EC-COUNCIL.png', verify: 'https://drive.google.com/file/d/1vviz-wsXejwfzhvoTAjidETClXgr18eR/view?usp=sharing'
+    },
+    {
       title: '111 Days of Learning for Challenge', issuer: 'Code for Change', date: '', image: './assets/certs/111days.jpeg', category: 'Appreciation',
       verify: 'https://drive.google.com/file/d/17hA0r_f_QlcvvgT9OIx-zGbUNpvdmGLe/view?usp=sharing', verifyLabel: 'Verify credential'
     },
