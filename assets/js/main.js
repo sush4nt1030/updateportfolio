@@ -22,7 +22,7 @@
       image: './assets/certs/google_cs_certificate.jpg', verify: 'https://coursera.org/share/5b21885d1e7ebfc5c92f950aac5b611b'
     },
     {
-      title: 'CTF Competition', issuer: 'EC - Council', date: '27th Oct 2026', category: 'security',
+      title: 'Google Cybersecurity', issuer: 'EC - Council', date: '27th Oct 2026', category: 'security',
       image: './assets/certs/EC-COUNCIL.png', verify: 'https://drive.google.com/file/d/1vviz-wsXejwfzhvoTAjidETClXgr18eR/view?usp=sharing'
     },
     {
